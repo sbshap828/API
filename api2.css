@@ -112,24 +112,25 @@ border-style: solid;
     width: 100%; /* Full width */
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgb(132, 79, 79); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
   }
   
   /* Modal Content/Box */
   .modal-content {
-    background-color: #fefefe;
+    background-color: #cf8787;
     margin: 15% auto; /* 15% from the top and centered */
     padding: 20px;
-    border: 1px solid #888;
+    border: 6px solid #382020;
     width: 80%; /* Could be more or less, depending on screen size */
+    font-size: 30px;
   }
   
   /* The Close Button */
   .close {
-    color: #aaa;
+    color: #1a1313;
     float: right;
-    font-size: 28px;
+    font-size: 38px;
     font-weight: bold;
   }
   
@@ -140,9 +141,10 @@ border-style: solid;
     cursor: pointer;
   }
   .stuart{
-
-width:100%;
-
-
+    position: fixed;
+    width:100%;
+    position: absolute;
+    top: 40px; left: 40px;
+    color:aqua;
     
   }

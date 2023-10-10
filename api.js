@@ -96,7 +96,7 @@ function handleClick(e){
         modal.style.display = "none";
 
 
-      },10000)
+      },5000)
     }
 
     
