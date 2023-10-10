@@ -86,7 +86,7 @@ function handleClick(e){
         imageContainers.innerHTML=""
        
       const gif = document.createElement("img")
-     gif.src = "https://penmarkpropertyadvisors.com/test2/paper.gif"
+     gif.src = "https://penmarkpropertyadvisors.com/test2/rocket.gif"
 
      //gif.src = https://media2.giphy.com/media/3ohnEqJ1XOfvWaSk7e/giphy.gif?cid=ecf05e47j5tlfxhp17u2v7prgsht2ck90583r1n1tq83llwi&ep=v1_gifs_search&rid=giphy.gif&ct=g"
       gif.classList.add("stuart")
